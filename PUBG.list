@@ -2,7 +2,6 @@
 # PUBG
 HOST-SUFFIX, gcloudcs.com, proxy
 HOST-SUFFIX, app-measurement.com, proxy
-#HOST-SUFFIX, igamecj.com, proxy
 HOST-SUFFIX, smallstrawberry.com, proxy
 HOST-SUFFIX, pubgmobile.com, proxy
 HOST-SUFFIX, gjacky.com, proxy
