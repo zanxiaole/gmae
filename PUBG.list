@@ -1,10 +1,10 @@
-#QuantuamX
+LOON
 # PUBG
-HOST-SUFFIX, gcloudcs.com, proxy
-HOST-SUFFIX, app-measurement.com, proxy
-HOST-SUFFIX, smallstrawberry.com, proxy
-HOST-SUFFIX, pubgmobile.com, proxy
-HOST-SUFFIX, gjacky.com, proxy
-HOST-SUFFIX, app.adjust.coma, proxy
-HOST-SUFFIX, pp-measurement.com, proxy
-# HOST-SUFFIX, igamecj.com, proxy
+DOMAIN-SUFFIX, gcloudcs.com, proxy
+DOMAIN-SUFFIX, app-measurement.com, proxy
+DOMAIN-SUFFIX, smallstrawberry.com, proxy
+DOMAIN-SUFFIX, pubgmobile.com, proxy
+DOMAIN-SUFFIX, gjacky.com, proxy
+DOMAIN-SUFFIX, app.adjust.coma, proxy
+DOMAIN-SUFFIX, pp-measurement.com, proxy
+# DOMAIN-SUFFIX, igamecj.com, proxy
